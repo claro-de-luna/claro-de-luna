@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @claro-de-luna
 - 👀 I’m interested in information technologies
-- 🌱 I’m currently learning C# programming and Website development
+- 🌱 I’m currently learning Java programming
+-  I have little experience with C#, HTML, CSS, JavaScript and Python
 
-<!---
-claro-de-luna/claro-de-luna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
