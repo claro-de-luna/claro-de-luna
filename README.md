@@ -1,3 +1,3 @@
 - 👋 Hello world!
 - 🌱 I’m @claro-de-luna
-- 👀 I’m building my career in computer science and information technologies
+- 👀 I’m currently learning HTML, CSS, JavaScript
